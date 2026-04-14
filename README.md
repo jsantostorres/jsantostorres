@@ -1,7 +1,6 @@
 ## Hi there 👋 It's Torres!
 
 <div align="center">
- 
 
 <a href="https://github.com/jsantostorres">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsantostorres&layout=compact&langs_count=7&theme=dark"/>
