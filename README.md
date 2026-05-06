@@ -1,5 +1,7 @@
 ## Hi there 👋 It's Torres!
 
+I'm a **Technical Degree in Systems Development** student, currently learning Java, SQL and Python and seeking to learn more.
+
 <div align="center">
 
  <a href="https://github.com/jsantostorres">
